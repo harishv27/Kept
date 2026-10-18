@@ -13,6 +13,12 @@ from, Siri and Shortcuts support, and streaks that handle schedules properly.
   </tr>
 </table>
 
+## Demo
+
+<img src="docs/demo.gif" alt="Kept walkthrough" width="260">
+
+Tick a habit off and open a habit's streak heatmap and weekly chart. Recorded on the iPhone 17 Pro simulator with demo data. [Full-quality video (MP4)](docs/demo.mp4)
+
 ## Features
 
 - **Today**: only what is due today, a progress ring, one tap to check off, haptic feedback. A "3 times a week" habit
